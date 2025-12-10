@@ -69,7 +69,7 @@ function App() {
           <h1 className="text-4xl md:text-6xl font-black tracking-tighter mb-2 italic">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">MATCHDAY</span>
           </h1>
-          <p className="text-gray-400 text-sm md:text-base tracking-widest uppercase">Champions League • Semi-Final</p>
+          <p className="text-gray-400 text-sm md:text-base tracking-widest uppercase">Champions League • Round 6</p>
         </header>
 
         {/* Main Content */}
