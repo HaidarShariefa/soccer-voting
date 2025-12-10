@@ -85,7 +85,7 @@ function App() {
 
         {/* Footer */}
         <footer className="mt-auto pt-12 pb-6 text-center text-gray-600 text-xs">
-          <p>Unofficial Fan Voting Page • Built for the Fans</p>
+          <p>Built for the Fans By Haidar :)</p>
         </footer>
       </div>
     </div>
